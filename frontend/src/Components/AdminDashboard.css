@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    border: 8px solid black;
+    box-sizing: border-box;
+    width: 60%;
+    height: 80vh;
+    justify-content: center;
+}
+
+.chart-1{
+    margin: 20px;
+    width: 40%;
+}
+
+.chart-2{
+    margin: 20px;
+    width: 40%;
+}
